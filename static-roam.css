@@ -66,3 +66,8 @@ a:hover {
     text-decoration: none; }
 .social-media-list a:hover .username {
     text-decoration: underline; }
+
+li:hover {
+  background-color: #eeeeee;
+  cursor:pointer;
+}
